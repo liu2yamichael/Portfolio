@@ -1,0 +1,105 @@
+.nav-pills{
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.nav-pills li a{
+    color: gray;
+}
+
+body{
+    background-color: white;
+}
+
+.pageOne{
+    background-image: url(http://pixelhub.me/pixelhub1/images/uploads/1385467739background_portfolio.jpg);
+    background-size: cover;
+    height: 850px;
+    margin-top: -70px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.pageTwo{
+    background-image: url(http://zellox.com/wp-content/uploads/2016/02/background-image-html.jpg);
+    background-size: cover;
+    height: 700px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.pageThree{
+    background-image: url(http://img08.deviantart.net/6ecf/i/2011/192/0/f/new_portfolio_background_by_larundel-d3n15qk.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.pageFour{
+    background-image: url(http://www.feihongbo.com/wp-content/images/20141120/1kcrznw03ja.jpg);
+    background-size: cover;
+    height: 350px;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+#header{
+    padding: 200px;
+    color: white;
+}
+
+#header h1{
+    font-size: 100px;
+}
+
+ #header p{
+    font-size: 35px;
+}
+
+#header2{
+    color: white;
+    padding: 15px;
+}
+
+#header2 h1{
+    font-size: 100px;
+}
+
+ #header2 p{
+    font-size: 35px;
+}
+
+#header3{
+    color: white;
+    padding: 15px;
+}
+
+#header3 h1{
+    font-size: 100px;
+}
+
+ #header3 p{
+    font-size: 35px;
+}
+#header4{
+    color: white;
+    padding: 15px;
+}
+
+#header4 h1{
+    font-size: 100px;
+}
+
+ #header4 p{
+    font-size: 35px;
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
