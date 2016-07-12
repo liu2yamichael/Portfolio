@@ -31,7 +31,7 @@ body{
 
 .pageTwo{
     background-attachment: fixed;
-    background-image: url(http://www.steininger.com.au/images/g-background-backdrop.jpg);
+    background-image: url(http://woodprogram.fi/contents/uploads/2014/02/background_1600x1200.jpg);
     background-size: cover;
     height: 800px;
     margin-left: -15px;
@@ -40,7 +40,7 @@ body{
 
 .pageThree{
     background-attachment: fixed;
-    background-image: url(http://www.christiancyberspace.com/cosmic-discovery/html/pagecomponents/background/bg-andromadapage.gif);
+    background-image: url(http://woodprogram.fi/contents/uploads/2014/02/background_1600x1200.jpg);
     background-size: cover;
     height: 800px;
     margin-left: -15px;
@@ -48,7 +48,8 @@ body{
 }
 
 .pageFour{
-    background-image: url(http://artworkplanet.com/assets/Background%20Portfolio.png);
+    background-attachment: fixed;
+    background-image: url(http://woodprogram.fi/contents/uploads/2014/02/background_1600x1200.jpg);
     background-size: cover;
     height: 450px;
     margin-left: -15px;
@@ -116,8 +117,8 @@ body{
 }
 
 footer{
-    background-image: url(http://woodprogram.fi/contents/uploads/2014/02/background_1600x1200.jpg);
+    background-color: gray;
     text-align: center;
     font-size: 25px;
-    color: gray;
+    color: black;
 }
